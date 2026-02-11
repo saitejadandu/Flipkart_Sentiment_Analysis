@@ -1,5 +1,7 @@
 # Flipkart_Sentiment_Analysis
+
 This is a real-time sentiment analysis web app that classifies Flipkart product reviews as Positive or Negative using NLP and machine learning. The goal is simple — help understand customer feedback quickly and clearly.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 About the Project
